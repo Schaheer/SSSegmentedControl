@@ -1,2 +1,2 @@
 # SSSegmentedControl
-Custom Segmented Control in Swift
+Custom Segmented Control for iOS using UIKit
