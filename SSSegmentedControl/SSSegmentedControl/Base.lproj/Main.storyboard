@@ -112,6 +112,12 @@
                             <constraint firstItem="dy9-Qu-koa" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="zwz-Wc-t9k"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="segmentedControl1" destination="DtL-7u-O8f" id="aeY-dA-Yei"/>
+                        <outlet property="segmentedControl2" destination="iPK-Rv-ne0" id="EUL-No-gEA"/>
+                        <outlet property="segmentedControl3" destination="pVk-Uh-ZEi" id="FuD-yp-jhI"/>
+                        <outlet property="segmentedControl4" destination="3me-gu-2v0" id="E7O-mz-Nzt"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
